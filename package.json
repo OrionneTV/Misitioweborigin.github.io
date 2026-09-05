@@ -1,0 +1,18 @@
+{
+  "name": "electroriginc",
+  "version": "1.0.0",
+  "description": "Sitio web corporativo de ElectrOriginc",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electroriginc",
+    "costa-rica",
+    "tecnologia",
+    "energia"
+  ],
+  "author": "ElectrOriginc",
+  "license": "MIT"
+}

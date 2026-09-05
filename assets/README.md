@@ -1,4 +1,4 @@
-# Assets - Electrorigin CR
+# Assets - ElectrOriginc
 
 Esta carpeta contiene todos los recursos visuales del sitio:
 
@@ -7,7 +7,6 @@ Esta carpeta contiene todos los recursos visuales del sitio:
 - **logo-main.png** - Logo principal para el header (fondo claro)
 - **logo-dark.png** - Logo para el footer (fondo oscuro)
 - **jonathan-zamora.webp** - Foto de Jonathan Zamora, Ejecutivo Comercial
-- **icon.png** - Icono flotante "Un solo origen"
 - **favicon.png** - Ícono del navegador (192x192px)
 - **social-preview.jpg** - Preview para redes sociales
 
